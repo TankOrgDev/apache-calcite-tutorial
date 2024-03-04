@@ -1,8 +1,8 @@
 package com.github.quxiucheng.tutorial.common.catalog;
 
 import com.github.quxiucheng.tutorial.common.data.MockData;
-import org.apache.calcite.config.CalciteConnectionConfigImpl;
-import org.apache.calcite.config.CalciteConnectionProperty;
+//import org.apache.calcite.config.CalciteConnectionConfigImpl;
+//import org.apache.calcite.config.CalciteConnectionProperty;
 import org.apache.calcite.jdbc.CalciteSchema;
 import org.apache.calcite.jdbc.JavaTypeFactoryImpl;
 import org.apache.calcite.plan.ConventionTraitDef;
