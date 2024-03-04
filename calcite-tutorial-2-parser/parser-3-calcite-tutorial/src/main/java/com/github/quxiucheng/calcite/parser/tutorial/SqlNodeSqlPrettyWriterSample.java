@@ -5,7 +5,7 @@ import org.apache.calcite.sql.SqlNode;
 import org.apache.calcite.sql.dialect.MysqlSqlDialect;
 import org.apache.calcite.sql.parser.SqlParseException;
 //import org.apache.calcite.sql.parser.SqlParser;
-import org.apache.calcite.sql.pretty.SqlPrettyWriter;
+//import org.apache.calcite.sql.pretty.SqlPrettyWriter;
 
 /**
  * @author quxiucheng
